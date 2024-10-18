@@ -1,0 +1,444 @@
+.burocratik-bg-container{
+    padding: 10px;
+}
+
+.nav-container{
+    background-color: transparent;
+}
+
+.nav-logo {
+    width: 20px;
+}
+
+.nav-logo-item{
+    font-size: 25px;
+}
+
+.nav-item{
+    font-size: 25px;
+    font-family: "Roboto";
+    margin-right: 100px;
+}
+
+.intro-container{
+    height : 600px;
+    margin-top: 50px;
+}
+
+.intro-heading{
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.play-our-reel-container{
+    height: 600px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.play-our-reel-heading{
+    color: white;
+    font-size: 100px;
+    font-weight: 350;
+}
+
+.year-description-container{
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.year-description-heading{
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.meet-brand-content{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+.brand-images-container{
+    display:flex;
+    flex-direction: row;
+}
+
+.sandclock-image-container{
+    width: 50%;
+}
+
+.hematogenix-image-container{
+    width: 50%;
+}
+
+.sandclock-img{
+    width: 100%;
+}
+
+.hematogenix-img{
+    width: 100%;
+    height: 650px;
+}
+
+.brand-content{
+    margin-top: 10px;
+    font-family: "Roboto";
+}
+
+.brand-name{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.brand-img-description{
+    font-size: 15px;
+    font-weight: 400;
+    color: grey;
+}
+
+.brand-and-digital-brand-container{
+    display: flex;
+    flex-direction: row;   
+    margin-top: 100px;
+}
+
+
+.brand-logos-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.brand-logo{
+    width: 100px;
+    height: 80px;
+}
+
+.brand-logo-description-container{
+    width: 100%;
+}
+
+.brand-logo-heading{
+    font-weight: 400;
+    font-size: 56px;
+    font-family: "Roboto";
+}
+
+.brand-types-bg-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 100px;
+}
+
+.brand-types-card-container{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.brand-types-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 70px;
+}
+
+.brand-type-heading-container{
+    width: 100%;
+}
+
+.brand-type-container{
+    width: 100%;
+}
+
+.brand-type-heading{
+    font-size: 25px;
+}
+
+.brand-type{
+    font-size: 18px;
+}
+
+.digital-thinker-image-container{
+    margin-top: 100px;
+}
+
+
+.kategora-alts-digital-brand-images-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.kategora-image-container{
+    width: 70%;
+}
+
+.alts-digital-image-container{
+    width: 30%;
+    align-self: flex-end;
+}
+
+.kategora-img{
+    width: 100%;
+}
+
+.alts-digital-img{
+    width: 100%;
+}
+
+.conclusion-container{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    width: 55%;
+}
+
+.conclusion{
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.conclusion-description{
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.project-bg-container{
+    height: 770px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    margin-bottom: 100px;
+}
+
+.project-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.home-project-list-container{
+    width: 35%;
+}
+
+
+.home-item{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    padding-bottom: 5px;
+}
+
+.case-study-container{
+    width: 65%;
+}
+
+.case-study-heading{
+    font-size: 50px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.case-study-description{
+    font-size: 50px;
+    font-weight: 200;
+}
+
+.case-study-btn{
+    color: white;
+    background-color: transparent;
+    border-bottom: 1px solid white;
+    border-radius: 3px;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 70px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.testimonial-author-container{
+    margin-bottom: 100px;
+}
+
+.testimonial-name{
+    font-size: 20px;
+}
+
+.testimonial-content{
+    font-size: 80px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.utrust-kopke-brand-images-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.utrust-image-container{
+    width: 65%;
+}
+
+.kopke-image-container{
+    width: 35%;
+}
+
+.utrust-img{
+    width: 100%;
+}
+
+.kopke-img{
+    width: 100%;
+}
+
+.kopke-brand-content{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.review-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.review{
+    width: 50%;
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.latest-awards-heading{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.latest-awards-details-container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+.award-heading{
+    font-size: 15px;
+    color: grey;
+    font-weight: 400;
+}
+
+.award-item{
+    padding-top: 10px;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.year-container{
+    margin-top: 40px;
+    width: 50%;
+}
+
+.awards-contest-project-container{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.awards-container{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contest-container{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.project-award-container{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.recognition-heading{
+    font-size: 30px;
+    font-weight: 400;
+    padding-bottom: 100px;
+    font-family: "Roboto";
+}
+
+.list-item{
+    list-style-type: none;
+    padding-bottom: 5px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.open-application-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px;
+    margin-top: 150px;
+}
+
+.open-application-heading{
+    font-weight: 400;
+    font-size: 40px;
+    color: black;
+}
+
+.contact-container{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+}
+
+.address-phone-info-container{
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    font-family: "Roboto";
+}
+
+.address-info-container{
+    width: 50%;
+}
+
+.address-card-container{
+    margin-bottom: 20px;
+}
+
+.address-items-container{
+    color: grey;
+}
+
+.contact-list-item{
+    list-style-type: none;
+}
+
+.social-media-container{
+    width: 60%;
+    margin-bottom: 50px;
+    font-family: "Roboto";
+}
+
+.social-media-card-container{
+    margin-bottom: 20px;
+}
+
+.social-media-heading{
+    color: gray;
+}
